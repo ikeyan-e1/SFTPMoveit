@@ -1,3 +1,6 @@
+#
+config.json
+
 # PortableDevelop Env
 test/
 build_dir/
@@ -5,7 +8,7 @@ build_dir/
 nuitka-crash-report.xml
 *.dist/
 *.build/
-bin/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
